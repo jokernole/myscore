@@ -23,3 +23,4 @@ Frontend o CSS 3 o HTML5 o Vue • Backend o Java o Postgre SQL • App о C++ o
 
 Этап 3:
 Работа над дизайном пунктов меню и пунктов с информации о матче
+да
